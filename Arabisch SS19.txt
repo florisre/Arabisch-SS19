@@ -1,0 +1,637 @@
+fest	ثَاَبِتْ
+ich	اَنْاَ
+Kaffeepulver	بُنْ
+Mädchen, Tochter	بِنْتْ
+du (m)	اَنْتَ
+du (f)	اَنْتِ
+Possesivendung ich	ـي
+zwischen	بَيْنَ
+es geht so, so-so	بين بين
+Rufpartikel	يَا
+und	وَ
+Sohn	اِبْنْ
+Prophet	نَبِي
+Feige	تِيْنْ
+wo	اَيْنَ
+Tür	بَاب
+Krone	تَاج
+Bruder	<div>اَج<br></div>
+Schwester	اُخت
+Handschrift	خَط
+Glück	حَظ
+unter, unten	تَحت
+Dschinn	جِن
+Bär	دُب
+Grenze	حَد
+Hase	اَرنَب
+Krieg	حَرب
+Rosine	زَبِيب
+Löwe	أَسَد
+wenn	اِذاَ
+Erlaubnis	اِذن
+Satellitenschüssel	دِش
+Morgen	صَبَاح
+Geduld	صَبَرْ
+schlagen, formulieren, richtig machen, prägen	ضَرَبَ -&nbsp;يُضْرَب
+Arzt	طَبِيب
+Medizin	طَبْ
+Polizist	ضَابِط
+Enten	بَظ
+Auge, Spion, Quelle, Neid	عَين
+Dämon	بُعْبُعْ
+Araber (Singular)	عَرَبْ
+Arabisch, Araber (Pl.)	عَرَبي
+nach (zeitl.)	بَعدَ
+fern, weit	بَعِيد
+stur	غَنِيد
+Geheimnis	سِر
+Geheimnisse	اَسرَار
+rausgehen, verlassen	خَرَجَ
+sich fühlen	شَعَرَ -&nbsp;يَشْعُر
+<div>Thron</div>	عَرش
+Pilger	حاج
+Erde, Boden, Gebiet, Land	اَرض
+Decke (zum zudecken)	غَطَاء
+Westen	غَرب
+Rabe	غُراب
+an, auf, in	في
+Pflicht	فَرض
+lies!	اِقْرَأ
+lesen	قَرَأَ
+Schloss	قَصر
+Vertrag	عَقد
+Recht	حَق
+schreiben	كَتَبَ -&nbsp;يَكْتُب
+ich habe geschrieben	كَتَبْتُ
+nein	لا
+der, die, das, die	ال
+für dich	لَك
+wir	نَحْنُ
+aber	لَكِن
+Präfix: für	لِ
+Suffix: du Possesiv (m)	ـُكَ
+Suffix: du possesiv (f)	ـُكِ
+Ramadan	رَمَضَان
+großzügig	كَريم
+gesegnet	مُبَارَك
+blau	اَزْرَق
+weiß	أَبْيَضْ
+öffnen	فَتَحَ - يَفْتَح
+was / nicht (Perfekt)	ما
+hören	سَمِعَ
+kennen	عَرِفَ
+spielen	لَعِبَ -&nbsp;يَلْعَب
+bezahlen	دَفَعَ
+weggehen, verlassen	خَرَجَ - يَخرُج
+Rechnung, Gebühr	حِساب
+Wissenschaften	عُلُوُم
+Geld	نُقُوُد
+Junge, Sohn	وَلَد
+Heimat	وَطَن
+legen, stellen	وَضَعَ
+Gott, wunder-wunderschön	اللّه
+antworten	رَدَّ
+ziehen	شَدَّ - يَشُدّ
+lieben	أَحَبَّ
+unterrichten, lehren	عَلَّمَ -&nbsp;يُعَلِّم
+drauf, auf	عَلَى
+das, dieser (m)	هَذَا
+Was ist das?	ما هذا؟
+das, diese (f)	هَذِهِ
+wer	مَن
+Wer ist das? (m)	من هذا؟
+Wer ist das? (f)	من هذه؟
+hinter	خَلْفَ
+die Universität	الجَامِعَة
+Lehrer	مُعَلَّم
+Lehrerin	مُعَلِّمَة
+Lehrer (wie die Schule)	مُدَرَّس
+Lehrerin (wie die Schule)	مُدَرَّسَة
+Baum	شَجَرَة
+hinter mir	خَلفي
+unter mir	تَحتي
+vor	اَمام
+Tisch	طاوِلة
+der Mann	الرّجُل
+das Auto	السَّيَّارة
+er	هُوَ
+sie	هِيَ
+was ist los?	ما هذا؟
+Stift	قَلَم
+Hemd	قَميص
+Papier	وَرَق
+Traube	عِنَب
+süß	حِلوَ
+essen	أكَلَ
+ich esse	آكُلُ
+was	ماذا
+Aprikose	مَشمَش
+ja	نَعَم
+Fragepartikel (entweder oder)	هَل / أ
+danke	شُكراً
+meine Mutter	أُمّي
+Haus	بَيت
+Kamm	مُشط
+Sonne	شَمس
+Buch	كِتَاب
+Bett	سَرِير
+Zaun, Mauer	سُور
+Seil	خَبل
+Schreibtisch, Büro	مَكتَب
+Elefant	فِيل
+Schiff	سَفينَة
+Nase	أَنف
+Brief, Briefumschlag, Umstand	ظَرف
+Schere	مِقَصّ
+Kamel	جَمَل
+Fuß, Schritt	قَدَم
+sagen, sprechen/er hat gesagt	قالَ
+rauchen	دَخَنَ
+wiederholen	كَرَّرَ - يكرر
+entscheiden	قَرَّرَ
+Hund	كَلب
+Herz	قَلب
+groß, alt	كَبير
+eintreten, betreten, annehmen	دَخَلَ
+ausgehen, weggehen	خَرَجَ
+fasten	صامَ
+aufstehen	قامَ
+zurückkommen	رَجَعَ - يَرجِع
+anwesend sein, kommen, besuchen	حَضَرَ
+Partizip I von anwesend sein: ich bin bereit, in Ordnung, ich komme	حاضِر
+ich liebe	أُحِبُّ
+Name	اِسم
+Sünde	اِثم
+richtig	صَح
+falsch	خَطَأ
+Deutschland	ألمانيا
+Welpe	جَرو
+Rose	وَردَة
+Fuß/Schritt	قَدَم
+Umschlag/Umstände	ظَرف
+Eimer	دَلو
+Stier, Ochse, Bulle	ثَور
+Kiste	صُندوق
+Schlüssel	مِفتاح
+Minarett	مَنارَة
+Mond	قَمَر
+Brille	نَظَّارَة
+Dattelpalme	نَخلَة
+Hahn	ديك
+Becken, Waschbecken	حَوض
+er lacht	يَضحَك
+er rennt	يَجري
+er sitzt	يَجلِس
+er trinkt	يَشرَب
+er isst/frisst	يَأَكُل
+er steigt ein/steigt auf/reitet	يَركَب
+er tritt ein/geht rein	يَدخُل
+er geht raus/verlässt	يَخرُج
+Fisch (Singular)	سَمَكَة
+Fisch (Plural)	سَمَك
+Garten	حَديقَة
+Kissen	وِسادَة
+Rosen	وَرد
+Polizist, Offizier	ضابِط
+Eier	بَيض
+Ei	بَيضَة
+auf, am	عَلَى
+Lampe	فانوس
+über, (auf)	فَوقَ
+wichtig	مُهِم
+ich bin gereist	سافَرتُ
+nach, zu, ins, aufs, ans	إِلَى
+Ägypten	مِصر
+wohin?	إلى أين؟
+woher?	مِن أين؟
+Seele	نَفس = رُوح = رَوح
+selber	نَفسي
+wow, wunderschön	رَوعة
+er spricht	يَتَكَلَّم
+ich spreche	أتَكَلّمُ
+ich weiß nicht	لا أعلَم
+ich habe vergessen	نَسيتُ
+Bibliothek, Buchhandlung	مَكتَبَة
+Datteln (trocken)	تَمر
+Datteln (frisch)	بَلح
+Wasser	ماء
+geht nicht, verboten	حرام
+erlaubt, es geht, kein Problem	حَلال
+hält sein Wort, macht alles richtig	رَجُل
+arbeiten	عَمِلَ
+ich habe geschlafen	نِمتُ
+ich habe gegessen	أكَلتُ
+ich habe getrunken	شَرِبتُ
+heute	اليَوم
+ich habe gehört	سَمِعتُ
+Herzlich Willkommen	أهلاً وَسَهلاً
+Familie, Stamm, geeignet	أهل
+leicht	سَهل
+schwierig	صَعب
+Mann	رَجُل
+Frau	اِمرأة
+Gift	سُم
+Honig	عَسَل
+Teufel	شَيطان
+bei mir, ich habe	عِندي
+Unterricht, Lektion	دَرس
+Vorlesung	مُحاضَرَة
+ich habe nicht/kein	ما عِندي
+weder ... noch	ما ... وَلا
+Hand	يَد
+Kleid	فُستان
+Student	طالِب
+Quatsch, leere Worte	كَلام فارِغ
+morgen	غَداً, بُكْرَة
+Mal	مَرَّة
+Sorge	قَلَق
+Logik	مَنطِق
+Schneider	خَيَّاط
+Verdopplung	شَدَّة
+nehmen	أَخَذَ
+er nimmt	يأخُذُ
+böse	شَر
+Osten	شَرق
+das Trinken	شُرب
+geizig	بَخيل
+Treppe, Leiter	سُلَم
+Friede	سَلامُ
+Ungerechtigkeit	ظُلم
+Unrecht tun	ظَلَمَ -&nbsp;يَظْلِم
+Finsternis, Dunkelheit	ظَلام
+der Ungerechte	ظالِم
+Schuld	دَين
+Religion	دين
+Fasten	صَيام
+Pflanze	نَبات
+Giraffe	زَرافَة
+Revolution	ثَورَة
+verbinden, klemmen	شَبَكَ - يُشبَك
+Löffel	مِغرَفَة = مِلعَقَة
+Leim, Kleber	صَمغ
+leer	فارِغ
+Übung	تدريب
+schreib!	اُكتُب
+Wäscheklammer	مِشبَك
+Fenster	شُباك
+er schreibt	يَكتُب
+er liest	يَقرَأ
+Krug	إِبريق
+Brot	خُبز
+er kocht	يَطبُخ
+Koch	طَباخ
+er macht	يَفعَل
+Kreis	دَائِرَة
+Reh	غَزالَة
+Pferd	حِصان
+Schuh	حِذاء
+hier	هُنا
+dort, es gibt	هُناك
+Klimaanlage	مُكَيِّف
+er riecht	يَشُمُّ
+Dreieck	مُثَلَّث
+Tafel	سَبُّورَة
+Statue	تِمثال
+Knopf	زِرّ
+Arm	ذِراع
+Pfeil	سَهم
+Perle	لؤلؤَة
+Bitteschön (m)	تَفَضَل
+Bitteschön (f)	تَفَضَلي
+Sehr erfreut, freut mich	أهلاً وَسَهلاً
+mit Ihnen (m)	بِكَ
+mit Ihnen (f)	بِكِ
+gut	خير
+auf jeden Fall, sowieso	عَلَى كُل حَال
+Norden	شَمال
+Erdnuss	سوداني
+nur	فَقَط
+Maschine	ماكينَة
+unterrichten	دَرَسَ - يَدرُس
+lehren	عَلَّمَ
+was bedeutet der Satz?	ما مَعنَى الجُملَة
+Raucher	مُدَخِن
+Kennenlernen (Nomen)	تَعارُف
+Zustand	حال
+Gott sei Dank	الْحَمدُ لِلَّه
+Ingenieur	مُهَندِس
+1	وَاحِد
+2	اِثنَان
+3	ثَلاَثة
+4	أَربَعَة
+5	خَمسَة
+6	سِتَّة
+7	سَبعَة
+8	ثَمَانِيَة
+9	تِسعَة
+10	عَشَرَة
+jedes/alle	كُل
+Fest	عيد
+auch	أيضاً
+glücklich	سَعيد
+aus	مِن
+sie beide (dual)	هُما
+sie (Pl. m)	هُم
+sie (Pl. f)	هُنَّ
+ich bin nicht	لَستُ
+traurig	حَزين
+europäisch (ironisch), ursprünglich: fränkisch	فِرَنجَة
+was bedeutet ... auf deutsch?	ما معنى ... بِالالماني؟
+Oh Gott!	يارَب
+Thema	موضوع
+Träne	دُموعَ
+Trommel	طُبلَة
+Schutz(-gebiet)	حَرَم
+sehr gut, super, ausgezeichnet, perfekt	مُمتاز
+Zähne	أسنان
+Ehemann	زوج
+Ehefrau	زوجة
+plus	زائِد
+istgleich, das macht gleich	يُساوِي
+mal (Multiplikation)	في
+Hauptstadt	عاصيمة
+guten Abend	مَساءُ الخَِير
+einen beleuchteten Abend!	مَساءُ النور
+Licht	نور
+fliegen, wird geflogen, schnell gehen	طارَ
+Vogel	طَائِر
+Flugzeug	طَائِرة
+gucken, sehen	نَظَرَ
+Zeit	وَقت
+Arbeit	عَمَل
+Problem	مُشكِلة
+mit (Person)	مَعَ
+mit/zu (Ding) (Präfix)	بِـ
+er geht rein, er betritt	يدخُل
+Pass	جَوَاز
+klein	صَغير
+sehr	جِداً
+Krankenschwester	مُمَرِّضَة
+Bitte!	َِمِن فَضلِك
+Reise	سَفَر
+Grund	سَبَب
+Besuch	زيّارة
+die deutsche Sprache	اللُغة الألمانية
+das Leben	الحَياةُ
+schöne Ferien	اِجازة سَعيدَة
+Flughafen	مَطَار
+Saal, Halle	صَالَة
+Ankunft	وُصُول
+Pässe	جَوَازَات
+Angestellter, Beamter	مُوَظَّف
+Karte	بِطَاقَة
+Studium	دِرَاسَة
+Institut	مَعهَد
+Sprache	لُغَة
+Adresse, Titel, Schlagzeile	عُنوَان
+ihr (m)	أنتُم
+ihr (f)	أَنتُنَّ
+ihr beide (dual)	أَنتُما
+warum	لِماذا/لِما/لِمَ
+welche (-r, -s, …)	أَيّ
+wann	مَتى
+wie	كَيفَ
+wie viel	كَم
+perfekt, in Ordnung	تَمام
+alles in Ordnung, alles klar	كُلُّه تمام
+beenden, zu Ende kommen	تَمَّ
+die Arbeit	العَمَل
+Flasche	زُجاجة
+Glas	زُجاج
+ich interessiere mich für…	أنا مُهتَمًُ بِ
+wer seid ihr?	مَن أنتُم؟
+die Party, die Veranstaltung	الحَفلة
+weil	لِأنَّ
+bei, in der Nähe	عِندَ
+morgens	صُباحاً
+abends	مَساءً
+Gefallen, Gunst	فَضل
+Was ist der Grund?	ما السبب؟
+Straße	شارِع
+Wie viele Bücher?	كم كتاباً؟
+Wie viele Flaschen?	كم زجاجةً؟
+Die arabische Sprache ist schwierig.	اللغة العربية صعبة.
+Ankunftskarte	بِطَاقَةُ الْوُصُلِ
+der Name	الْاسم
+der Beruf	الْوَظِيفَة, الْمِهْنَة
+Ort, Geschäft, Laden	ّمَحَل
+die Geburt	الْمِيلَاد
+Geschichte, Datum	تَارِيخ
+die Nationalität	الْجِنْسِيَّة
+Pakistan	بَاكِسْتَان
+Nummer	رَقْم
+Telefonnummer	رَقْمُ التلفنِ
+Das Wetter ist heiß.	الجَو حار
+das Wetter	الجَو
+heiß, scharf	حار
+schön	جَميل
+beschäftigt, besetzt	مشغول
+nutzen, verwenden	اِستَخدَمَ
+Musik	موسيقى
+verstehen	فَهِمَ - يَفهَم
+die Rede	الكَلام
+Milch	لَبَن
+gestern	أمس
+null	صِفر
+das Essen	الأكل
+ich habe verstanden	فَهِمْتُ
+wir haben verstanden	فَهِمْنا
+wissen, kennen	عَلِمَ - يَعلَم
+er hat geschrieben	هُوَ كَتَبَ
+sie (dual m) haben geschrieben	هُما كَتَبا
+sie (Plural m) haben geschrieben	هُمْ كَتَبوا
+sie (Singular) hat geschrieben	هِي كَتَبَتْ
+sie (dual f) haben geschrieben	هُما كَتَبَتا
+sie (Plural f) haben geschrieben	هُنَّ كَتَبْنَ
+du (m) hast geschrieben	أنتَ كَتَبْتَ
+ihr (dual) habt geschrieben	أنْتُمَا كَتَبْتُمَا
+ihr (Plural m) habt geschrieben	أَنْتُمْ كَتَبْتُم
+du (f) hast geschrieben	أَنتِ كَتَبْتِ
+ihr (dual f) habt geschrieben	أَنتُما كَتَبْتُما
+ihr (Plural f) habt geschrieben	أَنْتُنَّ كَتَبْتُنَّ
+wir haben geschrieben	نَحْنُ كَتَبْنا
+sie hat ein Wort geschrieben	.هِيَ كَتَبَتْ كَاِمَةً
+Sie hat das Wort geschrieben.	.هِيَ كَتَبَتِ الكَلِمَةَ
+durstig	عطِشان
+mir ist heiß	أنا حَرّان
+13	ثَلاثَةَ عشر
+Pluralendung maskulin Nominativ	ـُونَ
+21	وَاحد و عشرون
+101	مِائة و واحد
+Pluralendung feminin Nominativ	ـات
+ein Wort - Wörter	كَلِمَة - كَلِمَات
+Hose	بَنطَلون
+Wie heißt du?	ما اِسمُكَِ؟
+11	أَحَدَ عشر
+12	اِثنا عشر
+ich treffe	أُقابِل
+die neuen Wörter	الْكلمات الْجَدِيدة
+Mein Name (ist) ...	اسمي
+China	الصِّين
+Japan	اليَابَان
+Marokko	الْمَغرِب
+Abendgebet, Sonnenuntergang	مَغرِب
+Ball	كُرة
+nimm! (m)	خُذ
+nimm! (f)	خُذي
+gib!/geh abholen! (m)	هات
+gib!/geh abholen! (f)	هاتي
+Paprika	فُلفُل
+Mahlzeit	أَكلَة = وَجبَة
+Thunfisch	سمك تونة
+Restaurant	مَطعَم
+Mensa	مَطعَم الجاميه
+Küche	مطبَخ
+Kartoffel	بَطاطِس/بَطاطا
+kochen/sieden	سَلَقَ
+Knoblauch	ثَوم
+Butter	زُبد
+Zwiebel	بَصل
+Wissen/Wissenschaft	عِلم
+Gott/Herr	رَب
+beleuchten, Licht machen	نَوَّرَ
+rechts/Eid	يَمين
+links	يَسار, شِمال
+niemand	ﻻ أَحَد
+die Wand	الحائِط
+machen, schaffen, tun	جَعَلَ
+Stadt	مَدينة
+Freiburg ist eine schöne Stadt	فرايبورج مدينةٌ جميلةٌ
+reisen, fahren	سافر
+einmal	مرّة
+mehrmals	مَرات
+ändern, umsteigen, wechseln, umziehen, sich umziehen	غَيَّرَ - يغَير
+Gedanken	افكار
+sich treffen	قابل
+kein einziges Mal, niemals	وﻻ مرة
+Freund	صديق
+reden (mit)	(تَكَلَّمَ (مع
+verteidigen (vor)	(دافع - يُدافِع&nbsp;(عَن
+die Erzählung	الخكاية
+die Nachrichten	الأخبار
+das Zimmer	الحُجرة
+das Hotel	الفُندُق
+Bad, Schwimmbad, Toilette	حَمَّام
+reservieren, bestellen, kontrollieren	حَجَزَ -&nbsp;يَحْجُِز
+Ticket	تَذكَرة
+Ich bin mit dem Auto nach Berlin gefahren.	.سافرتُ بِالسيّارةِ إلى برلين
+unter vier Augen, du und ich	بَيني و بَينَكَِ
+das Wetter ist nicht schön	الجَوَ غير جَميلِ
+am Meer	على بَحر
+Meer	بَحر
+sitzen, Platz nehmen	جَلَسَ -&nbsp;يَجْلِس
+vor (zeitl. oder räuml.)	قَبل
+Person	شَخس
+Tauben	حَمام
+Friedenstauben	حَمامُ السَّلامِ
+Zigarette	سيجارة
+besitzen	مَلَكَ
+König	مَلِك
+Engel	مَلَك
+Euro	يورو
+Dollar	دوﻻر
+Pfund	جُنَيه
+Preis	سِعر
+Was kostet ... ?	ما سِعرُ ... ؟
+Mit wieviel/wieviel kostet	بِكَم
+Es kostet/zu 5€	بِخمسة يورو
+Hast du eine Zigarette?	هل معكَِ سيجارة؟
+Nein, ich habe keine Zigarette.	.ﻻ ما معي سيجارة
+der Empfang	الاِستِقبَل
+in Ordnung, ok	حَسَناً
+das Muster	النَّمُوذَج
+wo warst du?	أين كُنتَِ؟
+das Café	المقهي
+ich war in...	...كُنتُ في
+die Tür des Zimmers	بابُ الحجرةِ
+Kleider, Klamotten	مَلابِس
+Schrank	خِزَانة
+Stuhl	كُرسيّ
+Telefon	هَاتِف
+Radio	راديُو
+ich glaube nicht	ﻻ أُصَدِّقُ
+das ist alles, das sind alle Dinge	هذا كُلُّ شئ
+etwas, Sache	شئ
+Spiegel	مِرآة
+Kleiderschrank	خِزَانةُ مَلابِسِ
+bequem	مُرِيح
+alt	قَديم
+neu	جَديد
+die Universität ist alt	الجامعةُ قديمةٌ
+Leopard	فَهد
+bester Freund, enger Freund	خَليل
+Kopf	رأس
+Kater	قطّ
+schöner als	أَجمَل مِن
+schön, schöner	جَميل, أَجمَل
+großzügig, großzügiger	كريم, أَكرَم
+ich bin einverstanden, ich gebe zu	مُوافِق
+jetzt	الأن
+Rolle, Stockwerk	دَور
+eine Rolle spielen	لَعِبَ دَور
+die Ernährung	الغَذاء
+du magst (m)	تُحِبُّ
+du magst (f)	تُحِبينَ
+du isst (m)	تأكُلُ
+du isst (f)	تأكُلِينَ
+Marmelade	مُرَبىَّ
+oder	أو = أم
+grüner Tee	شاي أخضَر
+schwarzer Tee	شاي أسود
+Minze	نِعناع
+Käse, Angst	جُبن
+Bohnen	فول
+Kichererbse	حُمُص
+Aubergine	باذِنجان
+gedämpfte Aubergine	بابا غَنوج
+Suppe	شُربة = حَسَاءَ
+Fleisch	لُحُوم
+Geflügel	طُيُور
+vegetarisch	(نَباتي(ة
+Gemüse	خُضَر = خُضار
+wie (vergleichend)	مِثل = مِثلَ
+zum Beispiel	مَثَلاً
+das Frühstück	الْفُطُور
+das Mittagessen	الْغَداء
+das Abendessen	الْعَشَاء
+Saft	عَصِير
+Früchte, Obst	فاكِهَة
+Reis	أُرز
+Nudeln	مَكَرُونَة
+Süßigkeiten	حَلوَى
+Gabel	شَوْكَة
+Wassermelone	بِطِّيخ
+Finger	أُصْبُع
+Gesicht	وَجه
+Messer	سِكِّين
+Quittung, Beleg	فَاتُورَة
+Zahn	سِنّ
+Handtuch	مِندِيل
+müde	تَعبان
+sich über etw. freuen	(فرِحَ - يَفْرَح (بِ
+Händler, Kaufmann	تاجِر
+handeln (Handel betreiben)	تاجَرَ
+das Vermögen	المال
+einstellen	وَظَفَ
+leb! (Imperativ von leben)	عِش!
+normal	عادي
+doch	بَلَى
+Brüder	اِخوان = اِخوة
+ich hatte	كانَ عندي
+Alter	عُمر
+Lebe deinen Tag! (m)	عِش يومكَ!
+Lebe deinen Tag! (f)	عِشي يومكِ!
+der Herr	السَّيد
+Professor, Lehrer, Herr	اُستاذ
+Teller	طَبَق - أطباق
+Glas, Becher	كوب
+Liste	قائِمَة
+Essen	طَعام
+Arbeiter	عامِل
+ich will	اُريدُ
+ich hätte	اَوَدُّ
+Tomatensuppe	حساء طَماطَم
+Fleischspieß	كَباب
+Banane	مَوز
+Orange	بُرتُقال
+Tasse	فِنجال
